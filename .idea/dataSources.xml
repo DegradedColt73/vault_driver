@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="8f981614-039f-45f4-8a9f-2684e901cde2" uuid="aa9eb8dc-72cc-4d9b-a671-6597cbab0073">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Repozytoria\Vault\Apps\vault_driver\8f981614-039f-45f4-8a9f-2684e901cde2.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
